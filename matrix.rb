@@ -23,4 +23,3 @@ else if opcion == 2
 end
 	
 end
-
