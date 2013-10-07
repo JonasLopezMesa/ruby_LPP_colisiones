@@ -1,3 +1,6 @@
+#! /Users/jonaslopezmesa/.rvm/rubies/ruby-2.0.0-p247/bin/ruby
+require 'matrix'
+
 puts "\n\n\n"
 puts "Escoge una opción: "
 puts "   - 1. A + B"
