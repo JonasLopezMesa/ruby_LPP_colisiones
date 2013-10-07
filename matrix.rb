@@ -1,3 +1,6 @@
+#Modificamos el mismo fichero (matrix.rb) desde dos ramas distintas (master y sergio). Al hacer un merge, esto provocó que se generara
+#un conflicto. Para resolverlo, simplemente hemos dejado ambas partes en el fichero y se ha subido al repositorio remoto.
+
 #<<<<<<< HEAD
 #! /Users/jonaslopezmesa/.rvm/rubies/ruby-2.0.0-p247/bin/ruby
 require 'matrix'
